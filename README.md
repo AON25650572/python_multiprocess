@@ -1,0 +1,2 @@
+# python_multiprocess
+Pythonで並列処理するための走り書き
