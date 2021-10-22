@@ -92,3 +92,8 @@ print(result_list[:10])
     CPU times: user 26.5 s, sys: 1.13 ms, total: 26.5 s
     Wall time: 26.5 s
 
+
+```python
+import os
+os.cpu_count()
+```
